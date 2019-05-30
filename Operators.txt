@@ -1,0 +1,11 @@
+
+
+
+In Version 2 print is a keywordf
+In version 3 print is a function
+
+
+rishabh()
+parth()
+suharsh()
+smita()

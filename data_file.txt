@@ -1,0 +1,72 @@
+
+DICTIONARY:
+KEY:VALUE
+
+name: rishabh
+age: 25
+
+
+
+for i in ra
+
+DICTIONARY COMPREHENSION
+
+
+
+
+Question:
+      You have to find the occurence of a charecter in a string
+      string="guessanylongword"
+
+Question2:
+      Same question as above
+      string=" guess any long word"
+      * split(" ")
+
+x=(1)=1
+
+
+
+TYPES OF FUNCTIONS:
+          1) WITHOUT ARGUEMENT AND WITHOUT RETURN TYPE:
+          2) WITHOUT ARGUEMENT AND WITH RETURN TYPE:
+          3) WITH ARGUEMENT AND WITHOUT RETURN TYPE:
+          4) WITH ARGUEMENT AND WITH RETURN TYPE:
+
+
+
+HIGHER ORDER FUNCTIONS:
+    1) LAMBDA:
+            syntax:
+                    lambda arg: expr
+                      a,b: a+b, a+b
+
+    2) FILTER:
+    3) REDUCE:
+    4) MAP:
+          SYNTAX:
+          ________(func,seq)
+
+
+
+
+
+
+
+          x,y:x*y      [1,2,3,4,5,6,7,8,9,10]
+                      [2,12,30, , ]
+
+
+
+1) FILE HANDLING:
+        1) OPEN
+            SYNTAX:   open(file_name,operational_modes=,encoding='utf-8)
+        2) READ OR WRITE
+        3) CLOSE
+
+
+
+        f.tell()
+        f.seek()
+        f.readline()
+        f.readlines()
